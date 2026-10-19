@@ -1,10 +1,15 @@
-	---
-	layout: default
-	---
+---
+layout: default
+---
 
 ## Introduction
 
-<img src="assets/images/cow.png" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/cow.png" alt="Photo" hspace="20" width="30%" align="right"/> My name is Alistar, also known as the Minotaur. I come from the proud Minotaur clans of the Great Barrier mountains, where I learned the importance of strength, loyalty, and honour. After being captured by the Noxian Empire and forced to fight as a gladiator, I escaped captivity and dedicated my life to protecting the innocent and fighting oppression.  
+My greatest strengths include teamwork, resilience, and resolving conflicts with a well-timed headbutt. Outside of work, I enjoy travelling across Runeterra, exploring nature, physical training, and spending time with my fellow Minotaurs.
+
+I am currently seeking opportunities where I can put my strength and leadership skills to good use, preferably somewhere that does not involve gladiatorial combat.
+
+*Personal motto:* "You can't milk those!"
 
 ## Find me on
 
@@ -12,12 +17,12 @@
 
 ## Contact
 
-Phone number: 1-800-GOT-MILK
+Phone number: 1-800-GOT-MILK  
 Email address: [alistar.moo@gotmilk.fi](mailto:rachel.turola@helsinki.fi) 
 
 ## Courses I've Taken
 
-[Lactose intolerence and What causes it](https://courses.helsinki.fi/Lactose-Intolerance), spring 2025
+[Lactose intolerence and What Causes It](https://courses.helsinki.fi/Lactose-Intolerance), spring 2025
 
 [Zebra Print VS Cow Print](https://courses.helsinki.fi/zebra-vs-cow), fall 2026
 
@@ -27,8 +32,9 @@ Email address: [alistar.moo@gotmilk.fi](mailto:rachel.turola@helsinki.fi)
 
 ## Projects
 
-[Command Line Course](https://github.com/echomay22/cmdline-course)
-This was a small project in which we learned how to add, commit and push files to Github.
+[cmdline-course](https://github.com/echomay22/cmdline-course)  
+This was a small project in which we learned how to add, commit and push files to Github. 
+Above is the link to the project.
 
 ## Misc. 
 
@@ -37,3 +43,5 @@ This was a small project in which we learned how to add, commit and push files t
 [My real CV](https://www.leagueoflegends.com/en-gb/champions/alistar/)
 
 [My favorite outfit](https://www.youtube.com/watch?v=VOoc7nPzdG4) 
+
+[My Skills and Abilities](https://www.youtube.com/watch?v=cniag-madLg)
