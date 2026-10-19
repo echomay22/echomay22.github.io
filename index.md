@@ -1,5 +1,5 @@
 	---
-layout: default
+	layout: default
 	---
 
 ## Introduction
@@ -13,7 +13,7 @@ layout: default
 ## Contact
 
 Phone number: 1-800-GOT-MILK
-Email address: [alistar.moo@gotmilk.fi](rachel.turola@helsinki.fi). 
+Email address: [alistar.moo@gotmilk.fi](mailto:rachel.turola@helsinki.fi) 
 
 ## Courses I've Taken
 
