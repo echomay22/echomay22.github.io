@@ -44,12 +44,12 @@ Above is the link to the project.
 
 [My real CV](https://www.leagueoflegends.com/en-gb/champions/alistar/)
 
-**[My favorite outfit](https://www.youtube.com/watch?v=VOo7nPzdG4)**
+**My favorite outfit**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VOoc7nPzdG4 " target="_blank"><img src="http://img.youtube.com/vi/VOoc7nPzdG4/0.jpg" 
 alt="My favorite outfit" width="240" height="180" border="10" /></a> 
 
-**[My Skills and Abilities](https://www.youtube.com/watch?v=cniag-madLg)**
+**My Skills and Abilities**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cniag-madLg " target="_blank"><img src="http://img.youtube.com/vi/cniag-madLg/0.jpg" 
 alt="My Skills and Abilities" width="240" height="180" border="10" /></a>
